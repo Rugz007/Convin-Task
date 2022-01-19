@@ -1,5 +1,5 @@
-# Convin-Task
-The assignment is to implement salesforce integration which includes fetching user token from salesforce using  OAuth2 and then fetch the list of Users, Accounts, and Contacts from salesforce and store it in the database
+# Salesforce OAuth App
+Salesforce integration which includes fetching user token from salesforce using  OAuth2 and then fetch the list of Users, Accounts, and Contacts from salesforce and store it in the database
 
 
 ## Built With
